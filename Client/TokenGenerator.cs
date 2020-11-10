@@ -1,13 +1,7 @@
 using System;
 using System.IdentityModel.Tokens.Jwt;
-using System.IO;
 using System.Security.Claims;
-using System.Security.Cryptography;
-using System.Text;
 using Microsoft.IdentityModel.Tokens;
-using Newtonsoft.Json;
-using Org.BouncyCastle.Utilities.IO.Pem;
-
 
 namespace Client
 {
